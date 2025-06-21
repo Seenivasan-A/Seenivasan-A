@@ -8,10 +8,18 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Seenivasan-A&style=flat-square&color=blue" alt="Profile views" />
-  <a href="https://seenivasan-resume-link.com" target="_blank"><img src="https://img.shields.io/badge/Resume-Download-informational?style=flat-square&logo=readthedocs&color=orange" alt="Resume Badge" /></a>
-  <a href="https://leetcode.com/your_leetcode_username" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Progress-yellow?style=flat-square&logo=leetcode" /></a>
-  <a href="https://dev.to/your_devto_username" target="_blank"><img src="https://img.shields.io/badge/DEV-Blog-black?style=flat-square&logo=dev.to" /></a>
-  <!-- <a href="https://medium.com/@your_medium" target="_blank"><img src="https://img.shields.io/badge/Medium-Writer-black?style=flat-square&logo=medium" /></a> -->
+  <a href="https://drive.google.com/file/d/1I_-4t6zvc9AxPhfBmEbbY10IMkuOUCsq/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Download-informational?style=flat-square&logo=readthedocs&color=orange" alt="Resume Badge" />
+  </a>
+  <a href="https://leetcode.com/u/Seenivasan_33/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Progress-yellow?style=flat-square&logo=leetcode" alt="LeetCode Profile" />
+  </a>
+  <a href="https://linktr.ee/SEENIVASAN.A" target="_blank">
+    <img src="https://img.shields.io/badge/Linktree-Connect-green?style=flat-square&logo=linktree" alt="Linktree" />
+  </a>
+  <!-- <a href="https://medium.com/@your_medium" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-Writer-black?style=flat-square&logo=medium" />
+  </a> -->
 </p>
 
 ---
@@ -106,9 +114,11 @@
 
 ## 📌 Pinned Projects
 
-- 💼 **Doctor Appointment System** — PHP, JS, MySQL-based real-time appointment scheduling  
-- 📱 **Weather Flutter App** — Uses OpenWeather API & Material Design  
-- 🌐 **Portfolio Website** — Built with HTML5, CSS3, JS & animated interactions  
+- 💼 [**Doctor Appointment Booking System**](https://github.com/Seenivasan-A/Doctor_Apppointment_Booking_System) — Built using `PHP`, `JavaScript`, and `MySQL` for real-time doctor appointment scheduling  
+- 📚 [**Learn-Hub**](https://github.com/Seenivasan-A/Learn-Hub) — A responsive educational web platform built with `HTML`, `CSS`, and `JavaScript` for exploring programming concepts  
+<!-- - 🌐 **Portfolio Website** — Built with HTML5, CSS3, JS & animated interactions -->
+
+
 
 ---
 
@@ -116,4 +126,4 @@
 
 - 💬 Email: [seenivasan.a2833@gmail.com](mailto:seenivasan.a2833@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/seenivasan33](https://www.linkedin.com/in/seenivasan33/)  
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
+<!-- - 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)  -->
