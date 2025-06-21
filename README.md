@@ -3,27 +3,36 @@
 </h1>
 
 <h3 align="center">
-  🚀 Frontend Engineer | Passionate About Web & Mobile UI Experiences 🎨
+   🚀 Frontend Developer | Java Software Engineer | UI/UX Designer 🎨
 </h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Seenivasan-A&style=flat-square&color=blue" alt="Profile views" />
+  <a href="https://seenivasan-resume-link.com" target="_blank"><img src="https://img.shields.io/badge/Resume-Download-informational?style=flat-square&logo=readthedocs&color=orange" alt="Resume Badge" /></a>
+  <a href="https://leetcode.com/your_leetcode_username" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Progress-yellow?style=flat-square&logo=leetcode" /></a>
+  <a href="https://dev.to/your_devto_username" target="_blank"><img src="https://img.shields.io/badge/DEV-Blog-black?style=flat-square&logo=dev.to" /></a>
+  <!-- <a href="https://medium.com/@your_medium" target="_blank"><img src="https://img.shields.io/badge/Medium-Writer-black?style=flat-square&logo=medium" /></a> -->
+</p>
 
 ---
 
 ## 🧠 About Me
 
-<img align="right" src="https://example.com/your-coding-gif.gif" width="270" alt="Code Animation" />
+<img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/source/06f21a161921919.63cd7887d0a70.gif" width="270" alt="Code Animation" />
 
-- 👨‍💻 Crafting stunning, high-performance web apps and intuitive mobile experiences  
-- 🌱 Currently learning: Flutter, Firebase, Modern Web Animations  
-- 💬 Ask me about: React, Tailwind CSS, UI/UX design, frontend architecture  
-- ✨ Fun Fact: I love transforming scroll & hover interactions into delightful experiences  
+- 👨‍💻 Turning ideas into interactive web & mobile apps with performance and polish  
+- 🌱 Learning new tools: `Figma`, ` FlutterFlow`, `Firebase`  
+- 💬 I enjoy working with: `React`, `CSS`, `Java`, and modern `UI/UX patterns`  
+- ✨ I believe good software isn’t just functional — it should *feel* amazing to use
+
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:your.email@example.com" style="padding:10px"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://www.linkedin.com/in/yourprofile" style="padding:10px"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:seenivasan.a2833@gmail.com" style="padding:10px"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://www.linkedin.com/in/seenivasan33/" style="padding:10px"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://yourportfolio.com" style="padding:10px"><img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="40" /></a>
 </p>
 
@@ -33,28 +42,26 @@
 
 ### 💻 Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,dart,tailwind,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,mongodb,bootstrap,c,java,python" />
 </p>
 
 ### 🛠️ Tools I Use
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop,npm,webpack" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,figma,photoshop,postman,flutterflow" />
 </p>
 
 ---
 
 ## 💻 My Gear
 
-| Device                | Specs                          |
-|-----------------------|-------------------------------|
-| Laptop                | Lenovo (your model)           |
-| Processor            | (e.g. Intel i5 / Ryzen 5)     |
-| Memory                | 8 GB RAM                      |
-| Extras                | e.g. External Monitor, Tablet |
+| 💻 Laptop        | 🧠 Chip     | 🎮 Graphics         | 🔋 RAM |
+|------------------|------------|----------------------|--------|
+| MacBook Air M1   | Apple M1   | Integrated GPU        | 8GB    |
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Seenivasan-A&theme=radical&show_icons=true&hide_border=false&include_all_commits=true" />
   <br/>
@@ -73,10 +80,10 @@
 
 ---
 
-## 🔝 Recent Highlights
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Seenivasan-A&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Seenivasan-A&theme=react-dark&bg_color=1d1d1d&color=00bcd4&line=00f5a0&point=f5a623&area=true&hide_border=true" />
 </p>
 
 ---
@@ -89,16 +96,24 @@
 
 ---
 
-## 🔗 My Pinned Projects
+## 🔝 Most Contributed Repos
 
-- 💼 **Project‑One** — Brief project description.  
-- 📱 **App‑Two** — Brief mobile app description.  
-- 🌐 **Website‑Three** — What it does and technologies used.  
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Seenivasan-A&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+## 📌 Pinned Projects
+
+- 💼 **Doctor Appointment System** — PHP, JS, MySQL-based real-time appointment scheduling  
+- 📱 **Weather Flutter App** — Uses OpenWeather API & Material Design  
+- 🌐 **Portfolio Website** — Built with HTML5, CSS3, JS & animated interactions  
 
 ---
 
 ## 📫 Where to Find Me
 
-- 💬 Email: seenivasan.a2833@gmail.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/seenivasan33/  
-- 🌐 Portfolio: yourportfolio.com  
+- 💬 Email: [seenivasan.a2833@gmail.com](mailto:seenivasan.a2833@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/seenivasan33](https://www.linkedin.com/in/seenivasan33/)  
+- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
