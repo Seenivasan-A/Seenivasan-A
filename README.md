@@ -8,10 +8,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Seenivasan-A&style=flat-square&color=blue" alt="Profile views" />
-  <a href="https://drive.google.com/file/d/1AO0gG57WZUS3f8MX_hDaJsz9m_fTz2f-/view?usp=sharing" target="_blank">
-    
-    <img src="https://img.shields.io/badge/Resume-Download-informational?style=flat-square&logo=readthedocs&color=orange" alt="Resume Badge" />
-  </a>
+ <a href="https://drive.google.com/file/d/1AO0gG57WZUS3f8MX_hDaJsz9m_fTz2f-/view?usp=sharing" target="_blank" rel="noopener noreferrer" aria-label="Download Resume from Google Drive">
+  <img src="https://img.shields.io/badge/Resume-Download-informational?style=flat-square&logo=readthedocs&color=orange" alt="Resume Download Badge" />
+</a>
   <a href="https://leetcode.com/u/Seenivasan_33/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Progress-yellow?style=flat-square&logo=leetcode" alt="LeetCode Profile" />
   </a>
