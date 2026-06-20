@@ -63,9 +63,10 @@
 
 ## 💻 My Gear
 
-| 💻 Laptop        | 🧠 Chip     | 🎮 Graphics         | 🔋 RAM |
-|------------------|------------|----------------------|--------|
-| MacBook Air M1   | Apple M1   | Integrated GPU        | 8GB    |
+| 💻 Laptop      | 🧠 Chip  | 🎮 Graphics                       | 🔋 RAM               | 💾 Storage |
+| -------------- | -------- | --------------------------------- | -------------------- | ---------- |
+| MacBook Air M2 | Apple M2 | Integrated Apple GPU (8-core GPU) | 16 GB Unified Memory | 256 GB SSD |
+
 
 ---
 
